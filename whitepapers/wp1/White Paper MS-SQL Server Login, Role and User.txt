@@ -1,0 +1,4 @@
+Title: MS-SQL Server Login, Role and User
+Initial Release Date: 04-Mar-2016
+Latest Release Date: 02-Jan-2023
+Latest Version: 3.0
